@@ -1,1 +1,31 @@
-
+title
+{
+    background-color: rgb(11, 0, 20);
+}
+nav
+{
+background-color: rgb(11, 0, 20);
+}
+head
+{
+    background-color: rgb(11, 0, 20);
+}
+body 
+{
+  background-color: rgb(55, 54, 71);
+  margin: 0; /* Removes default browser spacing */
+  height: 100vh; /* Ensures it covers the full viewport height */
+}
+h1 
+{
+  background-color: rgb(11, 0, 20);
+  color: rgb(87, 110, 60);
+  text-align: center;
+  text-size-adjust: 16px;
+  margin: 0; /* Removes default browser spacing */
+}
+p 
+{
+   font-family: verdana;
+  font-size: 12px;
+}
